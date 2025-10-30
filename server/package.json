@@ -87,7 +87,7 @@
     "sirv": "^2.0.4",
     "tailwindcss-preset-email": "^1.3.2",
     "thumbhash": "^0.1.1",
-    "typeorm": "^0.3.17",
+    "typeorm": "^0.3.26",
     "ua-parser-js": "^1.0.35"
   },
   "devDependencies": {
