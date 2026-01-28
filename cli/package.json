@@ -64,7 +64,7 @@
   "dependencies": {
     "fast-glob": "^3.3.2",
     "fastq": "^1.17.1",
-    "lodash-es": "^4.17.21"
+    "lodash-es": "^4.17.23"
   },
   "volta": {
     "node": "20.18.0"
